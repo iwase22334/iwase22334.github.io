@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Shop"
       url: "https://tapoh.booth.pm/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: ""
 excerpt: "フリーソフトウェアを配信しています"
 
 feature_row_time_signal:
