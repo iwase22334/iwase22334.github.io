@@ -19,7 +19,7 @@ locale                   : "ja-JP"
 title                    : "tapohのサイト"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "tapoh22334"
+name                     : "tapoh"
 description              : "tapohに関する情報を記載します"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "tapoh22334"
+  username               : "tapoh"
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "tapoh22334"
+  name             : "tapoh"
   avatar           : "/assets/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a tori."
   location         : "Kawasaki-City"

@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: "Works"
+  - title: "フリーソフト"
     url: /works/
 
-  - title: "Uma"
-    url: "https://iwase22334.github.io/sample-umasec.com/"
+  - title: "競馬AI"
+    url: "/uma/"
 
+  - title: "お絵描きAI"
+    url: "/jbdrawer/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
