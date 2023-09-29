@@ -1,10 +1,10 @@
 ---
-title: "OTHERS"
+title: "OSS"
 layout: single
-permalink: /others/
+permalink: /oss/
 ---
 
-## Rustのクレート
+## Rustのクレート開発
 
  - 非公式のVOICEVOX CORE向けFFI wrapper
 [https://crates.io/crates/vvcore](https://crates.io/crates/vvcore)

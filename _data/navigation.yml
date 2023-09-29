@@ -12,8 +12,8 @@ main:
   - title: "ゲーム"
     url: "/game/"
 
-  - title: "その他"
-    url: "/others/"
+  - title: "OSS"
+    url: "/oss/"
 
   # - title: "Sample Posts"
   #   url: /year-archive/
