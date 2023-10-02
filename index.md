@@ -4,7 +4,6 @@ layout: single
 author_profile: true
 ---
 
+## About this site
 
-## こんにちは
-
-このサイトではtapohが作成した便利なソフトウェアを配信しています。
+このサイトではtapohが開発したソフトウェアを紹介しています
