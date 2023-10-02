@@ -18,8 +18,8 @@ feature_row_time_signal:
     alt: "time signal image"
     title: "鳩時計時報"
     excerpt: '作業に集中しすぎてしまう方 生活にメリハリを持たせたい方へ。 つくよみちゃんたちが読み上げるシンプルな時報アプリ。 一時間ごとに時間を読み上げます。 声は選択することが可能です。'
-    url: "https://tapoh.booth.pm/items/4187459"
-    btn_label: "Download"
+    url: "https://apps.microsoft.com/store/detail/%E9%B3%A9%E6%99%82%E8%A8%88%E6%99%82%E5%A0%B1/XPFNZ9XWM970FJ?ocid=pdpshare"
+    btn_label: "Microsoft Store"
     btn_class: "btn--primary"
 
 feature_tuiyomi:
@@ -29,11 +29,11 @@ feature_tuiyomi:
     excerpt: 'ツイッターのタイムラインを読み上げます。作業用BGMにどうぞ。
     利用には次のうちいずれかの音声合成ソフトが必要です(VOICEVOX v0.13.1, COEIROINK v1.6.0, LMROID v1.3, SHAREVOX v0.1.7, ITVOICE v1.0.1)'
     url: "https://tapoh.booth.pm/items/4503494"
-    btn_label: "Download"
+    btn_label: "BOOTH"
     btn_class: "btn--primary"
 
 intro: 
-  - excerpt: '一番シンプルな時計たち。windowsガジェット風に仕立ててあります。'
+  - excerpt: 'シンプルな時計。windowsガジェット風のUI'
 
 feature_timer:
   - image_path: assets/images/minipomo-window-capture.png
@@ -43,7 +43,7 @@ feature_timer:
     常に最前面に表示されタイマーに素早くアクセスできます。
     "
     url: "https://tapoh.booth.pm/items/4253271"
-    btn_label: "Download"
+    btn_label: "BOOTH"
     btn_class: "btn--primary"
 
   - image_path: assets/images/sstimer-window-capture.jpg
@@ -54,7 +54,7 @@ feature_timer:
     スライダーで時間設定とタイマー開始を同時に行います。
     "
     url: "https://tapoh.booth.pm/items/4374429"
-    btn_label: "Download"
+    btn_label: "BOOTH"
     btn_class: "btn--primary"
 
 ---
