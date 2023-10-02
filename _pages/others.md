@@ -1,5 +1,5 @@
 ---
-title: "others"
+title: "その他"
 layout: single
 permalink: /others/
 ---

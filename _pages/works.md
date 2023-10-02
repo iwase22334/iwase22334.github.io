@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header-works.jpg
   actions:
-    - label: "Shop"
+    - label: "BOOTH"
       url: "https://tapoh.booth.pm/"
   caption: ""
 excerpt: "フリーソフトウェアを配信しています"
