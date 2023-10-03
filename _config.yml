@@ -116,9 +116,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tapoh22334"
+      #- label: "Twitter"
+      #  icon: "fab fa-fw fa-twitter-square"
+      #  url: "https://twitter.com/tapoh22334"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -128,16 +128,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@tapoh"
+      #- label: "YouTube"
+      #  icon: "fab fa-fw fa-youtube"
+      #  url: "https://www.youtube.com/@tapoh"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tapoh22334"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/tapoh22334"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -153,9 +153,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@tapoh"
+      #- label: "YouTube"
+      #  icon: "fab fa-fw fa-youtube"
+      #  url: "https://www.youtube.com/@tapoh"
 
 
 # Reading Files
