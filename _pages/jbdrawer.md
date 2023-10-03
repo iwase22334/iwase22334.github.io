@@ -3,7 +3,11 @@ title: "JBDRAWER"
 layout: single
 permalink: /jbdrawer/
 toc: true
+tech_info: 
+  - excerpt: "`Python`/`PyTorch`/`ZMQ`/`Terraform`/`Ansible`/`EC2`"
 ---
+
+{% include feature_row id="tech_info" type="right" %}
 
 ## 概要
 

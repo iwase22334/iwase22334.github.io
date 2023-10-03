@@ -2,7 +2,11 @@
 title: "GAME"
 layout: single
 permalink: /game/
+tech_info: 
+  - excerpt: "`Rust`/`Bevy`/`Rapier`"
 ---
+
+{% include feature_row id="tech_info" type="right" %}
 
 ## マーブルラン
 

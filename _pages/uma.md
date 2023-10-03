@@ -3,7 +3,12 @@ title: "UMA"
 layout: single
 permalink: /uma/
 toc: true
+
+tech_info: 
+  - excerpt: "`Python`/`Keras`/`Pandas`/`PostgreSQL`/`Terraform`/`Ansible`/`EC2`/`S3`"
 ---
+
+{% include feature_row id="tech_info" type="right" %}
 
 ## サンプルサイト
 [https://iwase22334.github.io/sample-umasec.com/](https://iwase22334.github.io/sample-umasec.com/)
