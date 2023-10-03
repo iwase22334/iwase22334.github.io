@@ -14,6 +14,4 @@ tech_info:
 簡単なチャットサービス。  
 - [https://simplechat.iwasete.tokyo](https://simplechat.iwasete.tokyo)
 
-処理フローのイメージ
-![ロジック](/assets/images/simplechat-logic.svg)
 
