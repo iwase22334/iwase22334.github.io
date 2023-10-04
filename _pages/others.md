@@ -14,4 +14,6 @@ tech_info:
 簡単なチャットサービス。  
 - [https://simplechat.iwasete.tokyo](https://simplechat.iwasete.tokyo)
 
+### 構成
+![arch](/assets/images/simplechat-arch.svg)
 
