@@ -22,7 +22,7 @@ feature_row_time_signal:
     title: "鳩時計時報"
     excerpt: "作業に集中しすぎてしまう方 生活にメリハリを持たせたい方へ。 つくよみちゃんたちが読み上げるシンプルな時報アプリ。 一時間ごとに時間を読み上げます。 声は選択することが可能です。<br>
             ソース: [https://github.com/tapoh22334/hatodokei](https://github.com/tapoh22334/hatodokei)"
-    url: "https://apps.microsoft.com/store/detail/%E9%B3%A9%E6%99%82%E8%A8%88%E6%99%82%E5%A0%B1/XPFNZ9XWM970FJ?ocid=pdpshare"
+    url: "https://www.microsoft.com/store/apps/9N65C3J2BSMD"
     btn_label: "Microsoft Store"
     btn_class: "btn--primary"
 
