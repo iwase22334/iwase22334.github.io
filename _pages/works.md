@@ -21,7 +21,7 @@ feature_row_time_signal:
     alt: "time signal image"
     title: "鳩時計時報"
     excerpt: "作業に集中しすぎてしまう方 生活にメリハリを持たせたい方へ。 つくよみちゃんたちが読み上げるシンプルな時報アプリ。 一時間ごとに時間を読み上げます。 声は選択することが可能です。<br>
-            ソース: [https://github.com/iwase22334/hatodokei](https://github.com/iwase22334/hatodokei)"
+            ソース: [https://github.com/tapoh22334/hatodokei](https://github.com/tapoh22334/hatodokei)"
     url: "https://apps.microsoft.com/store/detail/%E9%B3%A9%E6%99%82%E8%A8%88%E6%99%82%E5%A0%B1/XPFNZ9XWM970FJ?ocid=pdpshare"
     btn_label: "Microsoft Store"
     btn_class: "btn--primary"
@@ -32,7 +32,7 @@ feature_tuiyomi:
     title: "ついよみ"
     excerpt: 'ツイッターのタイムラインを読み上げます。作業用BGMにどうぞ。
     利用には次のうちいずれかの音声合成ソフトが必要です(VOICEVOX v0.13.1, COEIROINK v1.6.0, LMROID v1.3, SHAREVOX v0.1.7, ITVOICE v1.0.1)<br>
-    ソース: [https://github.com/iwase22334/twradio](https://github.com/iwase22334/twradio)'
+    ソース: [https://github.com/tapoh22334/twradio](https://github.com/tapoh22334/twradio)'
     url: "https://tapoh.booth.pm/items/4503494"
     btn_label: "BOOTH"
     btn_class: "btn--primary"

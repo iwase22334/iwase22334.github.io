@@ -11,7 +11,7 @@ tech_info:
 {% include feature_row id="tech_info" type="right" %}
 
 ## サンプルサイト
-[https://iwase22334.github.io/sample-umasec.com/](https://iwase22334.github.io/sample-umasec.com/)
+[https://tapoh22334.github.io/sample-umasec.com/](https://tapoh22334.github.io/sample-umasec.com/)
 
 
 ## 概要
