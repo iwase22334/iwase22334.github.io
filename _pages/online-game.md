@@ -12,7 +12,8 @@ tech_info:
 ## Makyo
 
 - [https://makyo.iwasete.tokyo](https://makyo.iwasete.tokyo)
-![タイトル](/assets/images/makyo-thumbnail.png)
+ 
+![タイトル](/assets/images/makyo-thumbnail.jpg)
 
 ### システム
 
